@@ -15,3 +15,4 @@ chicago.csv, new_york_city.csv, washington.csv
 ### Credits
 Dataquest/ Programming for Data Science for Entreprise Nanogegree Program
 
+#author:  Rijatiana
